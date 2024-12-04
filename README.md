@@ -11,12 +11,13 @@
 1. Install a new VM on Azure
 2. Select " Debian image" with 16GB/4VCPU specs
 3. Once the VM is installed, SSH  into the VM machine
-4. Navigate to T-Pot GitHub page :GitHub - telekom-security/tpotce: 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
-5. Install 'git' via CLI 
+4. Navigate to T-Pot GitHub page :
+   *	 GitHub - telekom-security/tpotce: 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
+6. Install 'git' via CLI 
 	 
 		• sudo apt-get update && sudo apt install git -y
 
-6. Clone the GitHub repository:  git clone https://github.com/telekom-security/tpotce
+7. Clone the GitHub repository:  git clone https://github.com/telekom-security/tpotce
 
 ![image](https://github.com/user-attachments/assets/3abd55b8-2557-426a-a19d-f679eb7608c4)
 
@@ -29,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/a9245b24-e315-4bff-a5e8-d3ba9da761db)
 
-10. Open up the following ports on Azthe ure side.
+10. Open up the following ports on Azure side.
 
 ![image](https://github.com/user-attachments/assets/f950d37f-7b8f-4128-a19c-d632ffe246be)
 
